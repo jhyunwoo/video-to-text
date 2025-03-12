@@ -2,8 +2,8 @@ import subprocess
 
 video_data = [
     {
-        "url": "https://tqozw4vr7987.edge.naverncp.com/hls/b6yd7gaFWdlIc3gQXQj~-Q__/4f9f1c13-a27d-4f72-957a-93ca5e81cc7e/mp4/4f9f1c13-a27d-4f72-957a-93ca5e81cc7e.mp4/index.m3u8",
-        "title": "1주차 채플",
+        "url": "https://tqozw4vr7987.edge.naverncp.com/hls/b6yd7gaFWdlIc3gQXQj~-Q__/b064188a-6f19-462a-ab00-84811075ef43/mp4/b064188a-6f19-462a-ab00-84811075ef43.mp4/index.m3u8",
+        "title": "2주차 채플",
     },
 ]
 
